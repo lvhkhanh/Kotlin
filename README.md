@@ -3,6 +3,13 @@
 ## Official
 ### https://kotlinlang.org/
 ## Courses
+### https://kotlinlang.org/docs/reference/basic-syntax.html
+### https://kotlinlang.org/docs/reference/java-interop.html
+### https://kotlinlang.org/docs/reference/coding-conventions.html
+### https://kotlinlang.org/docs/reference/comparison-to-java.html
+### https://play.kotlinlang.org/hands-on/overview
+### https://play.kotlinlang.org/byExample/overview
+### https://play.kotlinlang.org/koans/overview
 ### https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011
 ### https://www.udacity.com/course/kotlin-for-android-developers--ud888
 ### https://www.udacity.com/course/advanced-android-with-kotlin--ud940
