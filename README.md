@@ -3,6 +3,8 @@
 ## Official
 ### https://kotlinlang.org/
 ## Courses
+### https://codelabs.developers.google.com/codelabs/basic-android-kotlin-training-welcome/index.html?index=..%2F..index#0
+### https://codelabs.developers.google.com/codelabs/build-your-first-android-app-kotlin/index.html?index=..%2F..index#0
 ### https://kotlinlang.org/docs/reference/basic-syntax.html
 ### https://kotlinlang.org/docs/reference/java-interop.html
 ### https://kotlinlang.org/docs/reference/coding-conventions.html
