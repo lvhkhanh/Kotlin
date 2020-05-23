@@ -5,6 +5,7 @@
 ## Courses
 ### https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011
 ### https://codelabs.developers.google.com/kotlin-bootcamp/
+### https://app.pluralsight.com/search/?q=kotlin
 ### https://codelabs.developers.google.com/codelabs/basic-android-kotlin-training-welcome/index.html?index=..%2F..index#0
 ### https://codelabs.developers.google.com/codelabs/build-your-first-android-app-kotlin/index.html?index=..%2F..index#0
 ### https://kotlinlang.org/docs/reference/basic-syntax.html
