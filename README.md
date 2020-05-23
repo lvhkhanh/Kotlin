@@ -18,6 +18,8 @@
 ### https://www.udacity.com/course/kotlin-for-android-developers--ud888
 ### https://www.udacity.com/course/advanced-android-with-kotlin--ud940
 ### https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012
+## Paths
+### https://app.pluralsight.com/paths/skill/android-development-with-kotlin-fundamentals
 ## Cert
 ### https://developers.google.com/certification/associate-android-developer
 https://codelabs.developers.google.com/codelabs/java-to-kotlin/index.html?index=..%2F..index#0
