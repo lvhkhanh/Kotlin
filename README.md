@@ -38,3 +38,13 @@ https://github.com/JetBrains/kotlin
 https://www.infoworld.com/article/3224868/what-is-kotlin-the-java-alternative-explained.html
 
 https://blog.jetbrains.com/kotlin/
+
+
+
+## Notes
+```
+#compile
+kotlinc HelloWorld.kt -include-runtime -d HelloWorld.jar
+#run
+java -jar HelloWorld.jar
+```
