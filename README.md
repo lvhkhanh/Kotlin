@@ -42,6 +42,8 @@ https://blog.jetbrains.com/kotlin/
 
 
 ## Notes
+### Data types
+#### Always capitalized: Int, String, Boolean
 ```
 #compile
 kotlinc HelloWorld.kt -include-runtime -d HelloWorld.jar
