@@ -49,4 +49,7 @@ https://blog.jetbrains.com/kotlin/
 kotlinc HelloWorld.kt -include-runtime -d HelloWorld.jar
 #run
 java -jar HelloWorld.jar
+
+kotlinc-js
+kotlinc-native
 ```
