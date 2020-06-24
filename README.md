@@ -64,3 +64,4 @@ kotlinc-native
 |   |fun getDestinationIndex(destination){}   |def get_destination_index(destination): \n pass   |   |   |
 |   |val destinationIndex = destinations.indexOf(destination)   |destination_index = destinations.index(destination)   |   |   |
 |   |println("text")   |print("text")   |   |   |
+|   |try {} catch (ErrorType ex) {}   |try: \n // ... \n except ErrorType: \n //...   |   |   |
