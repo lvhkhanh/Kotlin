@@ -63,5 +63,6 @@ kotlinc-native
 |   | var list = mutablelistOf(Type(), Type())  |list = ["a","b"]   |   |   |
 |   |fun getDestinationIndex(destination){}   |def get_destination_index(destination): <br> &nbsp;&nbsp;pass   |   |   |
 |   |val destinationIndex = destinations.indexOf(destination)   |destination_index = destinations.index(destination)   |   |   |
+|   |destinations.add(destination)   |destinations.append(destination)   |   |   |
 |   |println("text")   |print("text")   |   |   |
 |   |try {<br>} catch (ErrorType ex) {<br>}   |try: <br> // ... <br> except ErrorType: <br> //...   |   |   |
