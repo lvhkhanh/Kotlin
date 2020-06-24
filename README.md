@@ -57,3 +57,9 @@ java -jar HelloWorld.jar
 kotlinc-js
 kotlinc-native
 ```
+## Mapping
+|   |Kotlin   |Python   |   |   |
+|---|---|---|---|---|
+|   | var list = mutablelistOf(Type(), Type())  |list = ["a","b"]   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
