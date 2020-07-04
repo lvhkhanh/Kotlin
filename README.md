@@ -66,3 +66,4 @@ kotlinc-native
 |   |destinations.add(destination)   |destinations.append(destination)   |   |   |
 |   |println("text")   |print("text")   |   |   |
 |   |try {<br>} catch (ErrorType ex) {<br>}   |try: <br> // ... <br> except ErrorType: <br> //...   |   |   |
+|   |object SingletonName   |   |   |   |
