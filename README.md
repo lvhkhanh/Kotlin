@@ -65,6 +65,8 @@ kotlinc-native
 |   |val destinationIndex = destinations.indexOf(destination)   |destination_index = destinations.index(destination)   |   |   |
 |   |destinations.add(destination)   |destinations.append(destination)   |   |   |
 |   |println("text")   |print("text")   |   |   |
+|   |objectNameCouldNull?.property   |  |   |   |
+|   |objectNameCouldNull?:defaultValue  |  |   |   |
 | switch  |when   |   |   |   |
 |   |try {<br>} catch (ErrorType ex) {<br>}   |try: <br> // ... <br> except ErrorType: <br> //...   |   |   |
 |   |object SingletonName   |   |   |   |
