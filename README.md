@@ -44,7 +44,10 @@ https://www.infoworld.com/article/3224868/what-is-kotlin-the-java-alternative-ex
 https://blog.jetbrains.com/kotlin/
 
 
-
+## IDE
+### Visual Studio Code
+#### Extension
+##### ext:kt
 ## Notes
 ### Data types
 #### Always capitalized: Int, String, Boolean
