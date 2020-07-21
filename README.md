@@ -45,6 +45,7 @@ https://blog.jetbrains.com/kotlin/
 
 
 ## IDE
+### IntelliJ
 ### Visual Studio Code
 #### Extension
 ##### ext:kt
