@@ -1,5 +1,7 @@
 # Kotlin
-
+## Prerequisites
+### http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+### https://www.jetbrains.com/help/idea/install-and-set-up-product.html
 ## Official
 ### https://kotlinlang.org/docs/mobile/setup.html
 ### https://developer.android.com/kotlin/learn
@@ -13,7 +15,7 @@
 ### https://www.codecademy.com/learn/learn-kotlin
 ### https://codelabs.developers.google.com/codelabs/android-room-with-a-view-kotlin/#0
 ### https://codelabs.developers.google.com/codelabs/kotlin-coroutines/#0
-### https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011
+### https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011 Approx. 2 Weeks
 ### https://codelabs.developers.google.com/kotlin-bootcamp/
 ### https://app.pluralsight.com/search/?q=kotlin
 ### https://codelabs.developers.google.com/codelabs/basic-android-kotlin-training-welcome/index.html?index=..%2F..index#0
